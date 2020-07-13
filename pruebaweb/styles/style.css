@@ -1,0 +1,39 @@
+html {
+  font-size: 10px;
+  font-family: "Source Sans Pro", sans-serif;
+  background-color: #450050;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  color: #450050;
+  text-shadow: 5px 3.5px 1px black;
+}
+h2 {
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  padding: 8px 0;
+}
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1.5px;
+}
+body {
+  width: 650px;
+  margin: 0 auto;
+  background-color: #660066;
+  padding: 0 20px;
+  border: 5px solid black;
+  margin-bottom: 60px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 350px;
+  height: 300px;
+}
